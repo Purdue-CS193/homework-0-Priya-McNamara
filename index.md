@@ -1,46 +1,13 @@
+# Priyadevi McNamara's First CS193 Homework
+
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Some of my Favorite things about CS193:
+- The course lecturers seem nice
+- I will be learning good stuff
+- Using Github will be helpful in the future and this course has us learn how to use it
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-```markdown
-test making another markdown Syntax highlighted code block box
-```
-- test Bulleted list outside markdown box
-- interesting: auto-made another bulletpoint
-
-1. test numbered list
-2. auto-made another number
-
-# Normal Heading 1
-# **Bold Heading 1**
-
-text equation x<sup>2</sup> + 3 = 7
-
->test text that is a quote
+---------------------------------------------------------------------------------------------
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
