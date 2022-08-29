@@ -26,6 +26,22 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```markdown
+test making another markdown Syntax highlighted code block box
+```
+- test Bulleted list outside markdown box
+- interesting: auto-made another bulletpoint
+
+1. test numbered list
+2. auto-made another number
+
+# Normal Heading 1
+# **Bold Heading 1**
+
+text equation x<sup>2</sup> + 3 = 7
+
+>test text that is a quote
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
