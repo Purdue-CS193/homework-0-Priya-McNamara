@@ -1,6 +1,5 @@
 # Priyadevi McNamara's First CS193 Homework
 
-## Welcome to GitHub Pages
 
 ### Some of my Favorite things about CS193:
 - The course lecturers seem nice
